@@ -1,6 +1,8 @@
 package com.myowndev.main;
 
 public class Calc {
+	
+	// This project based on this vid: https://www.youtube.com/watch?v=A4SPene9Yxw
 
 	public static double v = 153.9; // 153.9 / 243.0 / 388.8 / 648.0 / 810.0
 	public static double x;
